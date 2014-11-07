@@ -40,8 +40,8 @@
       <file leaf-file-name="chess-canvas.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chess-canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1866252" vertical-offset="0" max-vertical-offset="5790">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.7231726" vertical-offset="4755" max-vertical-offset="5820">
+              <caret line="350" column="39" selection-start-line="350" selection-start-column="39" selection-end-line="350" selection-end-column="39" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -318,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chess-canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1866252" vertical-offset="0" max-vertical-offset="5790">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.7231726" vertical-offset="4755" max-vertical-offset="5820">
+          <caret line="350" column="39" selection-start-line="350" selection-start-column="39" selection-end-line="350" selection-end-column="39" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
